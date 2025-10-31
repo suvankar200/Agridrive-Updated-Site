@@ -228,16 +228,16 @@ export default function Home() {
             <Card className="p-6 text-center">
               <div className="relative w-32 h-32 mx-auto mb-4 rounded-full overflow-hidden">
                 <Image
-                  src="/photos/1.png"
+                  src="/photos/4.png"
                   alt="Team Member"
                   fill
                   className="object-cover"
                 />
               </div>
-              <h3 className="text-xl font-semibold mb-2">Subhajit Mondal</h3>
+              <h3 className="text-xl font-semibold mb-2">Arpita Das</h3>
               <p className="text-muted-foreground mb-3">Project Lead</p>
               <Link
-                href="https://www.linkedin.com/in/subhajit-mondal-8ba7b2259?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BUR8pmOHsRGiXAQ2stg1Vrg%3D%3D"
+                href="https://www.linkedin.com/in/arpita-das-6642a2290?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKh4vg5v4Scq0ud84HC5Y3w%3D%3D"
                 target="_blank"
                 className="text-blue-500 hover:text-blue-600"
               >
@@ -255,7 +255,7 @@ export default function Home() {
 
               </div>
               <h3 className="text-xl font-semibold mb-2">Vidisha Das</h3>
-              <p className="text-muted-foreground mb-3">ML Engineer</p>
+              <p className="text-muted-foreground mb-3">ML Lead</p>
               <Link
                 href="https://www.linkedin.com/in/vidisha-das-077b51291?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCrDcYK2oSI%2BefojKGwljSA%3D%3D"
                 target="_blank"
@@ -267,16 +267,16 @@ export default function Home() {
             <Card className="p-6 text-center">
               <div className="relative w-32 h-32 mx-auto mb-4 rounded-full overflow-hidden">
                 <Image
-                  src="/photos/4.png"
+                  src="/photos/1.png"
                   alt="Team Member"
                   fill
                   className="object-cover"
                 />
               </div>
-              <h3 className="text-xl font-semibold mb-2">Arpita Das</h3>
-              <p className="text-muted-foreground mb-3">Full Stack Developer</p>
+              <h3 className="text-xl font-semibold mb-2">Subhajit Mondal</h3>
+              <p className="text-muted-foreground mb-3">Haraware Lead </p>
               <Link
-                href="https://www.linkedin.com/in/arpita-das-6642a2290?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKh4vg5v4Scq0ud84HC5Y3w%3D%3D"
+                href="https://www.linkedin.com/in/subhajit-mondal-8ba7b2259?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BUR8pmOHsRGiXAQ2stg1Vrg%3D%3D"
                 target="_blank"
                 className="text-blue-500 hover:text-blue-600"
               >
